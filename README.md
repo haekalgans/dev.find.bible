@@ -1,0 +1,2 @@
+# dev.find.bible
+haganheh
